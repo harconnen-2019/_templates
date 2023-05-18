@@ -1,0 +1,6 @@
+{
+  "omitParentDirectory": true,
+  "openFilesWhenDone": [
+    "__test__/[FTName % paramcase].test.tsx"
+  ]
+}
