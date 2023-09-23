@@ -3,7 +3,6 @@
   "omitParentDirectory": true,
   "openFilesWhenDone": [
     "[FTName % paramcase]/[FTName % paramcase].tsx",
-    "[FTName % paramcase]/[FTName % paramcase].module.css",
-    "[FTName % paramcase]/__test__/[FTName % paramcase].test.tsx"
+    "[FTName % paramcase]/[FTName % paramcase].module.css"
   ]
 }

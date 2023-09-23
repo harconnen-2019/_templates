@@ -1,0 +1,7 @@
+{
+  "omitParentDirectory": true,
+  "overwriteExistingFiles": "always",
+  "openFilesWhenDone": [
+    "hooks/use-[FTName % paramcase].tsx"
+  ]
+}
