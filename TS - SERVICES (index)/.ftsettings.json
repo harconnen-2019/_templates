@@ -1,0 +1,7 @@
+{
+  "overwriteExistingFiles": "always",
+  "omitParentDirectory": true,
+  "openFilesWhenDone": [
+    "[FTName % paramcase]/[FTName % paramcase]-service.tsx"
+  ]
+}
