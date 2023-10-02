@@ -1,9 +1,0 @@
-{
-  "overwriteExistingFiles": "always",
-  "omitParentDirectory": true,
-  "openFilesWhenDone": [
-    "[FTName % paramcase]/[FTName % paramcase].tsx",
-    "[FTName % paramcase]/[FTName % paramcase].module.scss",
-    "[FTName % paramcase]/__test__/[FTName % paramcase].test.tsx"
-  ]
-}

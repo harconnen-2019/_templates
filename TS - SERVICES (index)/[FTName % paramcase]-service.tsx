@@ -20,7 +20,7 @@ function get(id: number): Promise<I<FTName % pascalcase>Service> {
   return fetchWrapper.get(api.url);
 }
 
-export const <FTName % pascalcase>Service = {
+export const <FTName % camelcase>Service = {
   api,
   get,
 };
